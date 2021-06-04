@@ -1,7 +1,10 @@
 
 
 # Pick-A-Click
-Pick-a-click is a website that helps in booking photo studio for various events like wedding, baby shower, birthday, spiritual functions, commercials, and other special occasions. Using this website customers can book their choice of photo studio for a particular event. They can also filter photo studios based on category, city and rating. After booking they will be receiving email about the details of studio along with the  photo studio’s phone number. On the other end, studio will receive the information about the customer. And for further enquiries customer can contact the studio for additional information. Customer can also give their review and rating to studios so that it will help other customers to know about those studios well.    It is built using PHP and MYSQL
+Pick-a-click is a website that helps in booking photo studio for various events like wedding, baby shower, birthday, spiritual functions, commercials, and other special occasions. Using this website customers can book their choice of photo studio for a particular event. They can also filter photo studios based on category, city and rating. After booking they will be receiving email about the details of studio along with the  photo studio’s phone number. On the other end, studio will receive the information about the customer. And for further enquiries customer can contact the studio for additional information. Customer can also give their review and rating to studios so that it will help other customers to know about those studios well.    It is built using PHP and MYSQL .
+
+
+To use this application install apache server and clone the repo into the hosting folder(var/www/html in linux htdocs in windows.....). Edit the db_connect.php file with your MySQL server credentials. You are required to import photographer_booking.sql  for the database at very first setup.You also need to install phpmailer (for email service) in location where you cloned the repo .Follow the instructions in the given link to install phpmailer https://github.com/PHPMailer/PHPMailer. Then start your server.The site will live on localhost.
 
 ### Home page 
 
