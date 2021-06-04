@@ -3,6 +3,7 @@
 # Pick-A-Click
 Pick-a-click is a website that helps in booking photo studio for various events like wedding, baby shower, birthday, spiritual functions, commercials, and other special occasions. Using this website customers can book their choice of photo studio for a particular event. They can also filter photo studios based on category, city and rating. After booking they will be receiving email about the details of studio along with the  photo studio’s phone number. On the other end, studio will receive the information about the customer. And for further enquiries customer can contact the studio for additional information. Customer can also give their review and rating to studios so that it will help other customers to know about those studios well.    It is built using PHP and MYSQL
 
+Home page 
 ![Screenshot (118)](https://user-images.githubusercontent.com/83118499/120799542-7ecd9f00-c55c-11eb-956f-fff89537b6a6.png)
 _________________________________________________________________________________________________________________________________________________________________________
 
@@ -22,5 +23,7 @@ ________________________________________________________________________________
 ![Screenshot (130)](https://user-images.githubusercontent.com/83118499/120801759-32d02980-c55f-11eb-858c-795bbbf7d303.png)
 ![Screenshot (131)](https://user-images.githubusercontent.com/83118499/120801763-34015680-c55f-11eb-88ad-b9630ea846fa.png)
 ![Screenshot (132)](https://user-images.githubusercontent.com/83118499/120801808-48455380-c55f-11eb-92dd-8f25c34f7d01.png)
+![Screenshot (134)](https://user-images.githubusercontent.com/83118499/120802513-23051500-c560-11eb-8e30-a991dfc497ff.png)
+
 
 
