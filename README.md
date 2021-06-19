@@ -1,5 +1,5 @@
 
-**# Pick-A-Click**
+# Pick-A-Click
 Pick-a-click is a website that helps in booking photo studio for various events like wedding, baby shower, birthday, spiritual functions, commercials, and other special occasions. Using this website customers can book their choice of photo studio for a particular event. They can also filter photo studios based on category, city and rating. After booking they will be receiving email about the details of studio along with the  photo studio’s phone number. On the other end, studio will receive the information about the customer. And for further enquiries customer can contact the studio for additional information. Customer can also give their review and rating to studios so that it will help other customers to know about those studios well.    It is built using PHP and MYSQL .
 
 _________________________________________________________________________________________________________________________________________________________________________
@@ -7,7 +7,8 @@ ________________________________________________________________________________
 
 To use this application install apache server and clone the repo into the hosting folder(var/www/html in linux htdocs in windows.....). Edit the db_connect.php file with your MySQL server credentials. You are required to import photographer_booking.sql  for the database at very first setup.You also need to install phpmailer (for email service) in location where you cloned the repo .Follow the instructions in the given link to install phpmailer https://github.com/PHPMailer/PHPMailer. Then start your server.The site will live on localhost.
 
-_________________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________________________
+
 
 ## Home page 
 
@@ -18,10 +19,12 @@ ________________________________________________________________________________
 ![Screenshot (146)](https://user-images.githubusercontent.com/83118499/122635406-62576800-d101-11eb-9757-f6fb69c90057.png)
 ![Screenshot_8](https://user-images.githubusercontent.com/83118499/122635755-4785f300-d103-11eb-866e-dfee18b650c3.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/83118499/122633717-99288080-d0f7-11eb-8f40-7b7d2d8349eb.png)
+![Screenshot_9](https://user-images.githubusercontent.com/83118499/122635992-823c5b00-d104-11eb-94e6-c4eeffdda2c4.png)
 
 
 ____________________________________________________________________________________________________________________________________________________
 ## Photo studio filter page
+
 ![Screenshot (119)](https://user-images.githubusercontent.com/83118499/120800115-3662b100-c55d-11eb-82d2-5616e588f4d0.png)
 ![Screenshot (120)](https://user-images.githubusercontent.com/83118499/120799131-ef27f080-c55b-11eb-9a02-07fc91fe998c.png)
 
