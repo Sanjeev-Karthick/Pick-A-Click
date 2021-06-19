@@ -5,15 +5,19 @@ Pick-a-click is a website that helps in booking photo studio for various events 
 
 _________________________________________________________________________________________________________________________________________________________________________
 
+
 To use this application install apache server and clone the repo into the hosting folder(var/www/html in linux htdocs in windows.....). Edit the db_connect.php file with your MySQL server credentials. You are required to import photographer_booking.sql  for the database at very first setup.You also need to install phpmailer (for email service) in location where you cloned the repo .Follow the instructions in the given link to install phpmailer https://github.com/PHPMailer/PHPMailer. Then start your server.The site will live on localhost.
+
 _________________________________________________________________________________________________________________________________________________________________________
 
-### Home page 
+## Home page 
 
 
 ![Screenshot (118)](https://user-images.githubusercontent.com/83118499/120799542-7ecd9f00-c55c-11eb-956f-fff89537b6a6.png)
-![Screenshot_1](https://user-images.githubusercontent.com/83118499/122633682-6c746900-d0f7-11eb-8031-293d44cc2254.png)
-![Screenshot_2](https://user-images.githubusercontent.com/83118499/122633686-70a08680-d0f7-11eb-87aa-35c86feefa12.png)
+![Screenshot_1](https://user-images.githubusercontent.com/83118499/122635431-8a46cb80-d101-11eb-8459-3eb0283276a8.png)
+![Screenshot_2](https://user-images.githubusercontent.com/83118499/122635456-a9455d80-d101-11eb-9bcb-9d4060831475.png)
+![Screenshot (147)](https://user-images.githubusercontent.com/83118499/122635399-5a97c380-d101-11eb-8731-bc2845a99cf9.png)
+![Screenshot (146)](https://user-images.githubusercontent.com/83118499/122635406-62576800-d101-11eb-9757-f6fb69c90057.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/83118499/122633717-99288080-d0f7-11eb-8f40-7b7d2d8349eb.png)
 
 
