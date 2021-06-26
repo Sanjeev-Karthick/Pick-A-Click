@@ -14,11 +14,16 @@ ________________________________________________________________________________
 
 ![1](https://user-images.githubusercontent.com/83118499/123508795-330ba280-d68f-11eb-9d26-e4065e03a7e7.png)
 ![2](https://user-images.githubusercontent.com/83118499/123508789-2d15c180-d68f-11eb-99a5-c4699baee96f.png)
-
+![3](https://user-images.githubusercontent.com/83118499/123508924-10c65480-d690-11eb-9e77-177a242258a1.png)
+![4](https://user-images.githubusercontent.com/83118499/123508917-0a37dd00-d690-11eb-8abc-f851d08919d8.png)
+![4 - Copy (2)](https://user-images.githubusercontent.com/83118499/123508935-220f6100-d690-11eb-95f3-83a55af36eaa.png)
+![5](https://user-images.githubusercontent.com/83118499/123508959-4bc88800-d690-11eb-86d5-5256f188c819.png)
+![5 - Copy](https://user-images.githubusercontent.com/83118499/123508964-5125d280-d690-11eb-91d7-5bf58cb4497e.png)
 
 ____________________________________________________________________________________________________________________________________________________
 
-# Photo studio filter page
+
+## Photo studio filter page
 
 
 ![Screenshot (119)](https://user-images.githubusercontent.com/83118499/120800115-3662b100-c55d-11eb-82d2-5616e588f4d0.png)
