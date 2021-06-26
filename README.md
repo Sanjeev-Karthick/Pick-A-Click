@@ -10,25 +10,16 @@ To use this application install apache server and clone the repo into the hostin
 __________________________________________________________________________________________________________________________________________________________________________
 
 
-# Home page   
+## Home page   
 
-![Screenshot (118)](https://user-images.githubusercontent.com/83118499/120799542-7ecd9f00-c55c-11eb-956f-fff89537b6a6.png)
-![Screenshot_1](https://user-images.githubusercontent.com/83118499/122635431-8a46cb80-d101-11eb-8459-3eb0283276a8.png)
-![Screenshot_2](https://user-images.githubusercontent.com/83118499/122635456-a9455d80-d101-11eb-9bcb-9d4060831475.png)
-![Screenshot (147)](https://user-images.githubusercontent.com/83118499/122635399-5a97c380-d101-11eb-8731-bc2845a99cf9.png)
-![Screenshot (146)](https://user-images.githubusercontent.com/83118499/122635406-62576800-d101-11eb-9757-f6fb69c90057.png)
-![Screenshot_8](https://user-images.githubusercontent.com/83118499/122635755-4785f300-d103-11eb-866e-dfee18b650c3.png)
-![Screenshot_3](https://user-images.githubusercontent.com/83118499/122633717-99288080-d0f7-11eb-8f40-7b7d2d8349eb.png)
-![Screenshot_9](https://user-images.githubusercontent.com/83118499/122635992-823c5b00-d104-11eb-94e6-c4eeffdda2c4.png)
-![Screenshot (151)](https://user-images.githubusercontent.com/83118499/122636060-d5161280-d104-11eb-9a18-d7524e474c8d.png)
-
-
+![1](https://user-images.githubusercontent.com/83118499/123508795-330ba280-d68f-11eb-9d26-e4065e03a7e7.png)
+![2](https://user-images.githubusercontent.com/83118499/123508789-2d15c180-d68f-11eb-99a5-c4699baee96f.png)
+![Uploading 3.png…]()
 
 ____________________________________________________________________________________________________________________________________________________
 
 # Photo studio filter page
-<p>
-  <p>
+
 
 ![Screenshot (119)](https://user-images.githubusercontent.com/83118499/120800115-3662b100-c55d-11eb-82d2-5616e588f4d0.png)
 
