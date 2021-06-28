@@ -5,7 +5,7 @@ Pick-a-click is a website that helps in booking photo studio for various events 
 _________________________________________________________________________________________________________________________________________________________________________
 
 
-To use this application install apache server and clone the repo into the hosting folder(var/www/html in linux htdocs in windows.....). Edit the db_connect.php file with your MySQL server credentials. You are required to import photographer_booking.sql  for the database at very first setup.You also need to install phpmailer (for email service) in location where you cloned the repo .Follow the instructions in the given link to install phpmailer https://github.com/PHPMailer/PHPMailer. Then start your server.The site will live on localhost.
+To use this application install apache server and clone the repo into the hosting folder(var/www/html in linux htdocs in windows.....). Edit the db_connect.php file with your MySQL server credentials. You are required to import photographer_booking.sql  for the database at very first setup.You also need to install phpmailer (for email service) in path where you cloned the repo .Follow the instructions in the given link to install phpmailer https://github.com/PHPMailer/PHPMailer. Then start your server.The site will live on localhost.
 
 __________________________________________________________________________________________________________________________________________________________________________
 
