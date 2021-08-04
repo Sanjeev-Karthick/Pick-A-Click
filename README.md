@@ -1,5 +1,7 @@
 
 # Pick-A-Click ( a Photostudio booking website )
+# Live http://pickaclick.epizy.com/
+
 Pick-a-click is a website that helps in booking photo studio for various events like wedding, baby shower, birthday, spiritual functions, commercials, and other special occasions. Using this website customers can book their choice of photo studio for a particular event. They can also filter photo studios based on category, city and rating. After booking they will be receiving email about the details of studio along with the  photo studio’s phone number. On the other end, studio will receive the information about the customer. And for further enquiries customer can contact the studio for additional information. Customer can also give their review and rating to studios so that it will help other customers to know about those studios well.    It is built using PHP and MYSQL .
 
 _________________________________________________________________________________________________________________________________________________________________________
