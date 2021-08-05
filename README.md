@@ -11,7 +11,7 @@ To use this application install apache server and clone the repo into the hostin
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
-# Home page\   
+# Home page  
 
 ![1](https://user-images.githubusercontent.com/83118499/123508795-330ba280-d68f-11eb-9d26-e4065e03a7e7.png)
 ![2](https://user-images.githubusercontent.com/83118499/123508789-2d15c180-d68f-11eb-99a5-c4699baee96f.png)
@@ -39,10 +39,9 @@ ________________________________________________________________________________
 
 ## Rating and Review
 
-![Screenshot (155)](https://user-images.githubusercontent.com/83118499/128286110-551073f5-a98a-4558-a35a-95d242d881a1.png)
-![Screenshot (157)](https://user-images.githubusercontent.com/83118499/128286121-ab58ad82-a3f8-44c7-9a1c-6a6fe4fbca6a.png)
-
-______________________________________________________________________________________________________________________________________________________________________________
+![Screenshot (158)](https://user-images.githubusercontent.com/83118499/128286411-bdf43504-b3da-4fef-86fa-7872e398fd4e.png)
+![Screenshot (159)](https://user-images.githubusercontent.com/83118499/128286424-37c5a4ff-532c-4cf0-adf8-90e7cfa95287.png)
+______________________________________________________________________________________________________________________________________________________________________
 
 
 ![Screenshot (115)](https://user-images.githubusercontent.com/83118499/120800133-3cf12880-c55d-11eb-8d72-75fe3fc9ab0d.png)
