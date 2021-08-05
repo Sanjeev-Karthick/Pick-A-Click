@@ -12,7 +12,7 @@ To use this application install apache server and clone the repo into the hostin
 __________________________________________________________________________________________________________________________________________________________________________
 
 
-## Home page   
+# Home page   
 
 ![1](https://user-images.githubusercontent.com/83118499/123508795-330ba280-d68f-11eb-9d26-e4065e03a7e7.png)
 ![2](https://user-images.githubusercontent.com/83118499/123508789-2d15c180-d68f-11eb-99a5-c4699baee96f.png)
@@ -25,7 +25,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________
 
 
-## Photo studio filter page
+# Photo studio filter page
 
 
 ![Screenshot (119)](https://user-images.githubusercontent.com/83118499/120800115-3662b100-c55d-11eb-82d2-5616e588f4d0.png)
