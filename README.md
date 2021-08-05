@@ -34,6 +34,15 @@ ________________________________________________________________________________
 
 ![Screenshot (120)](https://user-images.githubusercontent.com/83118499/120799131-ef27f080-c55b-11eb-9a02-07fc91fe998c.png)
 
+## Photo gallery of studios
+![Screenshot (156)](https://user-images.githubusercontent.com/83118499/128286082-ec0f4147-b1ff-49ef-b7e4-f4228238e86f.png)
+
+## Rating and Review
+
+![Screenshot (155)](https://user-images.githubusercontent.com/83118499/128286110-551073f5-a98a-4558-a35a-95d242d881a1.png)
+![Screenshot (157)](https://user-images.githubusercontent.com/83118499/128286121-ab58ad82-a3f8-44c7-9a1c-6a6fe4fbca6a.png)
+
+______________________________________________________________________________________________________________________________________________________________________________
 
 
 ![Screenshot (115)](https://user-images.githubusercontent.com/83118499/120800133-3cf12880-c55d-11eb-8d72-75fe3fc9ab0d.png)
