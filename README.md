@@ -9,10 +9,9 @@ ________________________________________________________________________________
 
 To use this application install apache server and clone the repo into the hosting folder(var/www/html in linux htdocs in windows.....). Edit the db_connect.php file with your MySQL server credentials. You are required to import photographer_booking.sql  for the database at very first setup.You also need to install phpmailer (for email service) in path where you cloned the repo .Follow the instructions in the given link to install phpmailer https://github.com/PHPMailer/PHPMailer. Then start your server.The site will live on localhost.
 
-__________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________
 
-<br/>
-# Home page   
+# Home page\   
 
 ![1](https://user-images.githubusercontent.com/83118499/123508795-330ba280-d68f-11eb-9d26-e4065e03a7e7.png)
 ![2](https://user-images.githubusercontent.com/83118499/123508789-2d15c180-d68f-11eb-99a5-c4699baee96f.png)
@@ -22,16 +21,16 @@ ________________________________________________________________________________
 ![5](https://user-images.githubusercontent.com/83118499/123508959-4bc88800-d690-11eb-86d5-5256f188c819.png)
 ![5 - Copy](https://user-images.githubusercontent.com/83118499/123508964-5125d280-d690-11eb-91d7-5bf58cb4497e.png)
 
-____________________________________________________________________________________________________________________________________________________
-
-
-# Photo studio filter page<br/>
+_________________________________________________________________________________________________________________________________________________________________________________
+# 
+# Photo studio filter page  
 
 
 ![Screenshot (119)](https://user-images.githubusercontent.com/83118499/120800115-3662b100-c55d-11eb-82d2-5616e588f4d0.png)
 
-____________________________________________________________________________________________________________________________________________________
-# Photo studio display page<br/>
+______________________________________________________________________________________________________________________________________________________________________________
+# 
+# Photo studio display page
 
 ![Screenshot (120)](https://user-images.githubusercontent.com/83118499/120799131-ef27f080-c55b-11eb-9a02-07fc91fe998c.png)
 
